@@ -1,21 +1,28 @@
 body {
-    background-color: greenyellow ;
+    background-color: greenyellow;
 }
 
 .center {
-    text-align: center ;
+    text-align: center;
 }
 
 div.center {
-    color: crimson ;
+    color: crimson;
 }
 
-ul {
-    color: darkblue ;
-    text-align: center ;
+.parent {
+    color: darkblue;
+    text-align: center;
 }
 
-li {
-    color: darkblue ;
-    text-align: center ;
+.parent>ul {
+    display: inline-block;
+}
+
+div.parent {
+    color: darkblue;
+}
+
+li.bullet {
+    color: darkturquoise ;
 }
