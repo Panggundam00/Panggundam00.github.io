@@ -1,0 +1,21 @@
+body {
+    background-color: greenyellow ;
+}
+
+.center {
+    text-align: center ;
+}
+
+div.center {
+    color: crimson ;
+}
+
+ul {
+    color: darkblue ;
+    text-align: center ;
+}
+
+li {
+    color: darkblue ;
+    text-align: center ;
+}
