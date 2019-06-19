@@ -1,5 +1,5 @@
 body {
-    background-color: greenyellow;
+    background-color: rgb(0, 0, 0);
 }
 
 .center {
@@ -7,7 +7,7 @@ body {
 }
 
 div.center {
-    color: crimson;
+    color: rgb(0, 255, 13);
 }
 
 .parent {
@@ -20,7 +20,7 @@ div.center {
 }
 
 div.parent {
-    color: darkblue;
+    color: rgb(0, 255, 13);
 }
 
 li.bullet {
