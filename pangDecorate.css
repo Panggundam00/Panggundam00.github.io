@@ -27,7 +27,7 @@
   
   /* Style page content */
   .main {
-    margin-left: 150px; /* Same as the width of the sidebar */
+    margin-left: 200px; /* Same as the width of the sidebar */
     padding: 60px 10px;
     align-content: center ;
     text-align: center ;
@@ -45,3 +45,25 @@
   ul{
     list-style-type: none;
    }
+
+
+.schedule{
+  /* width: 100px;
+  height: 500px ; */
+  font-size: 17px ;
+    
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 1px;
+    text-align: center;    
+  }
+
+.freeTime{
+  /* color: wheat ; */
+  background-color: wheat ;
+}
